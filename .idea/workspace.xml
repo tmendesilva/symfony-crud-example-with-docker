@@ -107,7 +107,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/sagat/PhpstormProjects/symfony-crud-example-with-docker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -119,6 +119,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates/product" />
     </key>
   </component>
@@ -133,6 +134,7 @@
       <workItem from="1743033613389" duration="8268000" />
       <workItem from="1743271025018" duration="5047000" />
       <workItem from="1743344963077" duration="1638000" />
+      <workItem from="1743346608143" duration="1041000" />
     </task>
     <servers />
   </component>
